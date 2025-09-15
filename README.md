@@ -1,6 +1,6 @@
 <h1>Hi there , I'm Shekhar Kanthe 👋</h1>
 Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth.
-##About Me 😇
+<h2>About Me 😇</h2>
 I love playing with numbers .
 Experienced in Power BI and Excel for insightful data visualization.
 Practicing MySQL for data management and querying.
