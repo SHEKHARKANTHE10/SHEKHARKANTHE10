@@ -1,4 +1,4 @@
-#Hi there , I'm Shekhar Kanthe 👋
+#<h1>Hi there , I'm Shekhar Kanthe 👋</h1>
 Welcome to my GitHub profile! I'm passionate about leveraging data analytics to empower businesses to make informed decisions and drive growth.
 ##About Me 😇
 I love playing with numbers .
