@@ -19,3 +19,6 @@ Welcome to my GitHub profile! I'm passionate about leveraging data analytics to 
  ● **Reporting & Visualization:** Skilled in creating compelling reports, dashboards, and visualizations using Power BI and Excel to make complex information clear and support informed decision-making.  
  ● **Problem Solving & Critical Thinking:** Use data-driven approaches to solve business problems, optimize processes, and make data-informed decisions.  
  ● **Data Quality & Integrity:** Committed to performing thorough data quality assessments and stress tests to guarantee reliable and trustworthy data.  
+ ## Let's connect 🤝  
+ 📧Email-svkanthe@gmail.com
+ 
